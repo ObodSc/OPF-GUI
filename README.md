@@ -3,7 +3,8 @@
 ## Unduh versi terbaru
 
 [⬇️opf-gui.zip](https://github.com/user-attachments/files/33503342/opf-gui.zip)
-<img width="959" height="542" alt="Cuplikan layar 2026-10-15 232136" src="https://github.com/user-attachments/assets/56a6f4d4-47da-4150-9ed0-db219a1f904e" />
+
+<img width="919" height="502" alt="Cuplikan layar 2026-10-15 232136" src="https://github.com/user-attachments/assets/56a6f4d4-47da-4150-9ed0-db219a1f904e" />
 ## Instalasi
 
 ```bash
