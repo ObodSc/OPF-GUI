@@ -1,4 +1,4 @@
-# OPF — GUI (Dibuat oleh ObodSC)
+# OPF — GUI
 
 ## Unduh versi terbaru
 
