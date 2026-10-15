@@ -1,8 +1,8 @@
 # OPF — GUI (Dibuat oleh ObodSC)
 
-## Unduh versi terbaru⬇️
+## Unduh versi terbaru
 
-[opf-gui.zip (versi terbaru)](https://github.com/user-attachments/files/33503342/opf-gui.zip)
+[⬇️opf-gui.zip](https://github.com/user-attachments/files/33503342/opf-gui.zip)
 
 ## Instalasi
 
