@@ -7,4 +7,5 @@ python main.py
 ```
 
 .zip versi terbaru
-[opf-gui.zip](https://github.com/user-attachments/files/33482087/opf-gui.zip)
+[opf-gui.zip](https://github.com/user-attachments/files/33503342/opf-gui.zip)
+
